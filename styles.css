@@ -55,7 +55,7 @@ body {
 .img-portion {
     width: 500px;
 	height: 500px;
-	display: none;
+	display: black;
 }
 
 /*===========
