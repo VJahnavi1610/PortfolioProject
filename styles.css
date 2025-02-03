@@ -52,21 +52,11 @@ body {
 .card-img-top {
     max-height: 500px;
 }
-.gif-portion {
+.img-portion {
     width: 500px;
 	height: 500px;
 	display: none;
 }
-
-@media screen and (min-width: 575px) {
-.gif-portion {
-    display: block;
-    }
-.img-portion {
-    display: none;
-    }
-}
-
 
 /*===========
     Lists
